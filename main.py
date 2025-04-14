@@ -20,7 +20,7 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
 load_dotenv()
 
-# load environmnet variable:
+# load environment variable:
 # OPENAI_API_KEY
 
 memory = MemorySaver()
